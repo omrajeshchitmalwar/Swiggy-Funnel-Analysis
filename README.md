@@ -81,7 +81,7 @@ November 2023 - November 2023
 <br>
 
 ### 🌟 Acknowledgements
-Special thanks to the data providers and the Python community for their support and documentation.
+Special thanks to the data providers for their support and documentation.
 
 <br>
 
